@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: 田敬蒙的博客 | BY Blog
+title: codetjm Blog
+SEOTitle: 田敬蒙的博客 | codetjm Blog
 header-img: img/post-bg-desk.jpg
 email: tianjime@163.com
 description: "Every failure is leading towards success."
@@ -102,7 +102,7 @@ friends: [
         title: "CSDN",
         href: "https://blog.csdn.net/u010702071"
     },{
-        title: "简书·BY",
+        title: "简书·tjm",
         href: "https://www.jianshu.com/u/858f50251dce"
     },{
         title: "Apple",
